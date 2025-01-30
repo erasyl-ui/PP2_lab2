@@ -1,0 +1,1 @@
+print(customers['c2']['name'])
