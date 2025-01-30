@@ -1,0 +1,2 @@
+[print(x) for x in ['apple', 'banana', 'cherry']]
+
