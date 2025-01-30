@@ -1,0 +1,2 @@
+for y, z in x.items():
+  print(y, z)
